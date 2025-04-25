@@ -19,7 +19,7 @@ Se ainda não tiver o **Node.js** instalado, você pode baixar [aqui](https://no
 Primeiro, clone o repositório para o seu computador:
 
 ```bash
-git clone https://github.com/seu-usuario/github-profile-cards.git
+git clone https://github.com/gmmouraFag/praticas_tailwind_styled.git
 ```
 
 ### 2. Instalando Dependências
